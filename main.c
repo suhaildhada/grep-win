@@ -57,7 +57,7 @@ static void search_file(const char *file_path, re_t pattern) {
         int match_len;
         int match_idx = re_matchp(pattern, buffer, &match_len);
         if (match_idx != -1) {
-            printf("%s:%d:%d\n", file_path, line_no, match_idx + 1);
+            printf("Line: %5d | Col :%-5d | %-60s \n ", line_no, match_idx + 1, file_path);
         }
         line_no++;
     }
