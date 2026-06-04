@@ -14,4 +14,5 @@ It is by no means professional utility.
 
 # Example
 
-<video src="grep-win-example.mp4" width="320" height="240" controls></video>
+https://github.com/user-attachments/assets/5023d79e-3bb5-4dca-bf4b-908aa13ef759
+
