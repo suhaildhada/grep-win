@@ -10,3 +10,8 @@ It is by no means professional utility.
 1. Download Exe from the release tab
 2. Add the exe to your PATH folder
 3. open command prompt use "grep_win" command (ex ```grep_win Hello```)
+
+
+# Example
+
+<video src="./grep-win-example.mp4" width="320" height="240" controls></video>
